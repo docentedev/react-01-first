@@ -1,0 +1,12 @@
+.card {
+    border-radius: 5px;
+    border: solid red 1px;
+}
+
+.card .card__header {
+    background: blue;
+}
+
+.card .card__content {}
+
+.card .card__footer {}
